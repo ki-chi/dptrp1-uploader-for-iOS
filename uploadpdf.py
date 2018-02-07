@@ -35,7 +35,7 @@ else:
 dp.authenticate(client_id, key)
 
 filename = os.path.basename(localpath)
-encoded_filename = quote(os.path.splitext(filename)[0]) + ".pdf"
+encoded_filename = quote(filename)
 
 remotepath = "Document/Received/"+encoded_filename
 with open(localpath, 'rb') as fh:
