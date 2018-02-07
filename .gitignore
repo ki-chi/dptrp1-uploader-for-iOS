@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# keys
+key.txt
+client_id.txt
