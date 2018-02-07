@@ -1,6 +1,6 @@
 import os
 import appex
-import dptrp1
+from dptrp1 import dptrp1
 from urllib.parse import quote
 
 key_file = "./key.txt"
