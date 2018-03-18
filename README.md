@@ -33,7 +33,11 @@ $ git clone https://github.com/ki-chi/dptrp1-uploader-for-iOS.git
 
 set `uploadpdf.py` on "Share Extension Shortcuts" on Pythonista, and reboot the device.
 
-Connect iOS devices and DPT-RP1 with the same lan (or connect DPT-RP1 with iOS's Wi-Fi tethering network). You can run the script on any app in iOS's "Open In..." functions. At the first time, it requires pairing.
+## Usage
+
+Connect iOS devices and DPT-RP1 with LAN (or connect DPT-RP1 with iOS's Wi-Fi tethering network) and choose "Run Pythonista Script" in iOS's "Open In..." functions on any apps. Then, Pythonista runs the script and send the PDF to your iOS device. It requires pairing if you run it at the first time.
+
+<img src="http://ki-chi.jp/wp-content/uploads/IMG_7225.png" width="320">
 
 ## Notes
 
