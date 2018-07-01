@@ -1,3 +1,7 @@
+# NOTE: This script is now deprecated! (2018-07-01)
+
+Sony released "[Digital Paper App for mobile](https://itunes.apple.com/jp/app/digital-paper-app-for-mobile/id1384897785)", their official app for transmitting PDF files between DPT-RP1 (and DPT-CP1) and iOS devices. I strongly recommend using it.
+
 # dptrp1-uploader-for-iOS
 Python script for uploading PDF file to DPT-RP1 from iOS devices. It is a Pythonista wrapper for the package [dpt-rp1-py](https://github.com/janten/dpt-rp1-py), focusing only the function to upload files. It runs as the extension of Pythonista on iOS.
 
